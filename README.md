@@ -1,4 +1,4 @@
-# VM Disk Performance per Cluster for vRealize Operations 7.5
+# VM Disk Performance per Cluster for vRealize Operations 7.5 and 8.0
 ---------
 
 This dashboard can be used to view the disk performance of all VMs within a cluster using [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
@@ -16,6 +16,6 @@ This dashboard can be used to view the disk performance of all VMs within a clus
 
 ## Support
 
-This dashboard requires vRealize Operation 7.5 Advanced or Enterprise edition.
+This dashboard requires vRealize Operation 7.5 or 8.0 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-vm_disk_performance_per_cluster/issues) for feedback.
